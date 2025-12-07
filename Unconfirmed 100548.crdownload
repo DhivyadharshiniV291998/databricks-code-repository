@@ -7,6 +7,7 @@
 #not needed (5 hours video interested) - databricks/spark/ai ...
 #misc concepts: inherit,poly morp, overload,overriding, abstraction, encapsulation, constructors, inst met, class met, static met...
 #1. Class - Class is template or a blueprint program that contains related members in a form of sub classes,functions, variables
+print("hello team")
 class cls1:
     def __init__(self):
         self.abcd=100
